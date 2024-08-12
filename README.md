@@ -1,5 +1,3 @@
-"Ochi Design creates high-performance websites that blend creativity with technology using React.js for fast, scalable applications, Locomotive Scroll for smooth, engaging scroll effects, GSAP for fluid, captivating animations, and Framer Motion for interactive, dynamic transitions."
-
 
 # React + Vite
 
